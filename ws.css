@@ -1,0 +1,58 @@
+.wrapperContainer{
+padding: 100px;
+
+}
+.form{
+    padding: 20px;
+    border: 10px solid;
+ color:aqua; 
+
+}
+.inputDescription{
+    color:red;
+    font-style: italic;
+
+}
+.upperNumber{
+    color:green;
+    font-weight: bold;
+
+}
+.downNumber{
+    color:mediumvioletred;
+    font-weight: bold;
+
+
+
+}
+.operation{
+    font-weight: bold;
+    color:black;
+
+
+}
+
+.calc{
+color:blue;
+background-color:white;
+
+}
+
+.operatorDescription{color:saddlebrown}
+
+.value{
+    color:black;
+    font-size: 25px;
+}
+.answer{
+    font-size: 25px;
+    font-family: serif;
+    font-weight: bolder;
+    color:chartreuse;
+
+}
+.lastDiv{
+    color:orangered;
+    border: 5px solid;
+    padding: 10px;
+}
